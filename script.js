@@ -1,9 +1,13 @@
-let age = 21
-let adult = true;
+const name = "gega";
+const username = "bakuradze";
+let age = 21;
+const mail = "bakuravar1@gmail.com";
+const number = "557 71 73 50";
+const adult = true;
 
-console.log("გეგა");
-console.log("ბაკურაძე");
+console.log(name);
+console.log(username);
 console.log(age);
-console.log("bakuravar1@gmail.com");
-console.error("557 71 73 50");
-console.warn(adult); 
+console.log(mail);
+console.error(number);
+console.warn(adult);
